@@ -1,6 +1,2 @@
 # SQL
 SQL - PostgreSQL
-
-
-
-
