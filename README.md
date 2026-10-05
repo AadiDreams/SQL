@@ -1,4 +1,4 @@
 # SQL
 SQL - PostgreSQL
 </br>
-Solving SQL Questions
+<a href = "SQL\Find Employees with a Salary Greater Than ₹50,000.sql">Question 1 — Basic Filtering with WHERE</a>
