@@ -1,4 +1,4 @@
 # SQL
 SQL - PostgreSQL
 </br>
-<a href = "SQL\Find Employees with a Salary Greater Than ₹50,000.sql">Question 1 — Basic Filtering with WHERE</a>
+[Question 1 — Basic Filtering with WHERE](./Find%20Employees%20with%20a%20Salary%20Greater%20Than%20₹50,000.sql)
