@@ -7,5 +7,5 @@ SQL - PostgreSQL
 </br>
 [Question 3 — DISTINCT](./Find%20All%20Unique%20Departments.sql)
 </br>
-[Question 4 — AND, OR & Parentheses](./Find Employees Matching Multiple Conditions.sql)
+[Question 4 — AND, OR & Parentheses](./Find%20Employees%20Matching%20Multiple%20Conditions.sql)
 </br>
